@@ -1,0 +1,10 @@
+# Editors
+.vscode/
+.idea/
+
+# cache
+__pycache__/
+
+# venv
+venv/
+.venv/
